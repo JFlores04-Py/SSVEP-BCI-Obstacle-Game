@@ -55,5 +55,5 @@ A real-time BCI game that uses Steady-State Visual Evoked Potentials (SSVEPs) to
 ## Contact
 
 **Jorge Flores** – george.floresgf2004@gmail.com
-GitHub: github.com/[your-username]
+GitHub: github.com/JFlores04-Py
 LinkedIn: linkedin.com/in/jorge-flores-baa242300
