@@ -52,30 +52,6 @@ A real-time BCI game that uses Steady-State Visual Evoked Potentials (SSVEPs) to
 
 ---
 
-## Quick Start
-
-git clone https://github.com/[your-username]/ssvep-bci-game.git
-cd ssvep-bci-game
-pip install -r requirements.txt
-
-Run the pipeline:
-
-python src/preprocess.py
-python src/train_model.py
-python src/run_game.py   # requires live EEG stream
-
----
-
-## Structure
-
-ssvep-bci-game/
-├── data/          # Raw and processed EEG files
-├── src/           # Preprocessing, features, model training, game loop
-├── results/       # Plots, confusion matrices, exported model
-└── requirements.txt
-
----
-
 ## Contact
 
 **Jorge Flores** – george.floresgf2004@gmail.com
